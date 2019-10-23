@@ -1,7 +1,7 @@
-#Audit Tool Project
+##Audit Tool Project
 ## For auditing and analyzing creative metadata tags on given ISRCs
 
-###Instructions for Installation
+Instructions for Installation
 
 1. Open Terminal
 
