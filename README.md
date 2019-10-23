@@ -8,7 +8,7 @@ Instructions for Installation
 
 2. Clone repository 
 ```
-git pull https://github.com/kleimaj-umusic/AuditTool
+git clone https://github.com/kleimaj-umusic/AuditTool
 ```
 
 To run the Audit Tool
